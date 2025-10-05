@@ -23,9 +23,9 @@ Register and update profile
 Borrow and return books
 View borrowed books and due dates
 
+# Backend:
 
-# Backend: Java 8, Spring Boot 2.7.x
-
+Java 8, Spring Boot 2.7.x
 Database: MySQL
 ORM: Spring Data JPA 
 Build Tool: Maven
